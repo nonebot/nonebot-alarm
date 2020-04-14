@@ -2,7 +2,7 @@
  * @Author         : yanyongyu
  * @Date           : 2020-04-14 21:24:19
  * @LastEditors    : yanyongyu
- * @LastEditTime   : 2020-04-14 21:50:43
+ * @LastEditTime   : 2020-04-14 21:56:25
  * @Description    : None
  * @GitHub         : https://github.com/yanyongyu
  -->
@@ -27,4 +27,10 @@ or just
 ```shell
 cd path/to/your/plugin/dir
 git clone https://github.com/nonebot/nonebot-alarm.git
+```
+
+### 安装依赖
+
+```shell
+pip install jieba pyhanlp phone phonenumbers regex coconlp
 ```
